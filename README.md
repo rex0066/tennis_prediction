@@ -1,5 +1,5 @@
-# Predicting Tennis outcome With GNN
-A repository for the Engineering Honours Thesis of Hongjing, 
+# Predicting Tennis Outcome with GNN
+A repository for the Engineering Honours Thesis of Hongjing, "Predicting Tennis Outcome with Graph Neural Network"
 
 ## Replicating Results
 
