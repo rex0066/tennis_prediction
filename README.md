@@ -10,7 +10,7 @@ Please do the following to replicate the classification accuracy results of GNN
 3. Run logistic.py (which presents the logistic regression result).
 4. Run cnn.py (which presents the Ann result).
 
-## [Used Packages](https://github.com/rex0066/tennis_prediction)
+## [Used Packages]
 
 The following packages were used with Python 3.9.6:
 
